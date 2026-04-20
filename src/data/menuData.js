@@ -4,7 +4,7 @@
 
 export const menuData = [
   // Niki Kopi
-  { id: 1, name: 'Americano', price: 15000, category: 'Niki Kopi', description: 'Kopi hitam murni dengan cita rasa otentik.', image: '2022_10_23_23_13_35E289E4-5AEC-4093-99AC-B3010DBE9D51.JPG' },
+  { id: 1, name: 'Americano', price: 15000, category: 'Niki Kopi', description: 'Kopi hitam murni dengan cita rasa otentik.', image: 'https://github.com/Rizaldk404/Warnik-Project-12/blob/d58a2b0630c73ddeaeef14c1a89d5e2b0aca1f11/2022_10_23_23_13_35E289E4-5AEC-4093-99AC-B3010DBE9D51.JPG' },
   { id: 2, name: 'Kopi Butter', price: 15000, category: 'Niki Kopi', description: 'Sensasi gurih mentega berpadu dengan kopi pilihan.', image: 'https://i.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&q=80&w=400' },
   { id: 3, name: 'Kopi Cokelat', price: 15000, category: 'Niki Kopi', description: 'Perpaduan manis cokelat dan pahit kopi yang seimbang.', image: 'https://images.unsplash.com/photo-1541167760496-162955ed8a9f?auto=format&fit=crop&q=80&w=400' },
   { id: 4, name: 'Kopi Susu Gula Aren', price: 15000, category: 'Niki Kopi', description: 'Best seller! Manis legit gula aren dan susu creamy.', image: 'https://images.unsplash.com/photo-1559496417-e7f25cb247f3?auto=format&fit=crop&q=80&w=400' },
